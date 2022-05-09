@@ -17,6 +17,9 @@ Some of the images taken while developing the project
 ![photo1652114505](https://user-images.githubusercontent.com/100087314/167458194-0ca43193-fc7c-4ee9-ae3b-a553f9e0f5f4.jpeg)
 
 
+2. Successfully hosted the webpage
 
 
 
+
+![Screenshot (4)](https://user-images.githubusercontent.com/100087314/167458469-c97a0f81-d8cd-4df6-a2dd-7265fe5e09d4.png)
